@@ -1,0 +1,21 @@
+{
+  "name": "second-gear",
+  "version": "0.1.0",
+  "description": "Hold Shift to stop time. Queue the chaos. Let go. - a GitHub Game Off 2026 entry (theme: SHIFT).",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@dimforge/rapier3d-compat": "^0.14.0",
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.11"
+  }
+}
